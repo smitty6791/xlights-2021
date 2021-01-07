@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.48</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=117,E_SLIDER_Pinwheel_Arms=1,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="6750313" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Lower Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Posts" visible="1"/>
+    <Element collapsed="0" type="model" name="UpperEves" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Upper Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Door and Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Porch" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Four outer House Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="House Center" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlakes" visible="1"/>
+    <Element collapsed="0" type="model" name="FullMiniTrees" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTreeTrunks" visible="1"/>
+    <Element collapsed="0" type="model" name="MiniTreeStars" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticals" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Animals" visible="1"/>
+    <Element collapsed="0" type="model" name="House Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Poles" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Pole 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Upper Garage Veritical" visible="1"/>
+    <Element collapsed="0" type="model" name="Rudolph" visible="1"/>
+    <Element collapsed="0" type="model" name="Bumble" visible="1"/>
+    <Element collapsed="0" type="model" name="Charlie Brown" visible="1"/>
+    <Element collapsed="0" type="model" name="Snoopy" visible="1"/>
+    <Element collapsed="0" type="model" name="Woodstock" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arch-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Right Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Left Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Large Mini Tree Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Star-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Large Mini Tree Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Large Mini Tree Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 12 center" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Eve" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Over Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="High Eve Over Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Right Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Left Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Upper Center Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Upper Right Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Upper Left Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Porch Eve" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Post" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Post" visible="1"/>
+    <Element collapsed="0" type="model" name="Main Eve" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 16 upper right" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 16 upper left" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 16 lower left" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 16 over garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 16 lower right" visible="1"/>
+    <Element collapsed="0" type="model" name="House Veritcal Left" visible="1"/>
+    <Element collapsed="0" type="model" name="House Vertical Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Veritical" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Posts">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UpperEves">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Upper Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Door and Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Porch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Four outer House Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="FullMiniTrees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTreeTrunks">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MiniTreeStars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Verticals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Animals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Yard">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Poles">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Pole 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Upper Garage Veritical">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rudolph">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bumble">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Charlie Brown">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snoopy">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Woodstock">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arch-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Right Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Left Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Large Mini Tree Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Large Mini Tree Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Large Mini Tree Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 12 center">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" selected="1" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Garage Eve">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Over Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="High Eve Over Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Right Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Left Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Upper Center Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Upper Right Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Upper Left Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Porch Eve">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Post">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Post">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Main Eve">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 16 upper right">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flake 16 upper left">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flake 16 lower left">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flake 16 over garage">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flake 16 lower right">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="0" endTime="33250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House Veritcal Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Vertical Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Veritical">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
