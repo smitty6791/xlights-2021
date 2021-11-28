@@ -1,5 +1,5 @@
 false
-30
+32
 Posts
 Everything
 Large Mini Tree Center
@@ -20,8 +20,9 @@ Pixel Pole 3
 Pixel Pole 4
 Pixel Pole 5
 Pixel Pole 6
+Large Matrix
+Mega Tree
 Upper Windows
-Lower Door and Windows
 Garage Front
 SnowFlakes
 FullMiniTrees
@@ -30,6 +31,7 @@ Arches
 Animals
 House Front
 Pixel Poles
+Lower Door and Windows
 Posts			House Trees	white
 Everything			Whole Display	white
 Large Mini Tree Center			Mini2	white
@@ -50,8 +52,9 @@ Pixel Pole 3			ChromaCane03	white
 Pixel Pole 4			ChromaCane04	white
 Pixel Pole 5			ChromaCane05	white
 Pixel Pole 6			ChromaCane06	white
+Large Matrix			Matrix Large	white
+Mega Tree			Mega Tree	white
 Upper Windows			WindowsDoor	white
-Lower Door and Windows			WindowsDoor	white
 Garage Front			Whole_House	white
 SnowFlakes			ChromaStar04	white
 FullMiniTrees			All_Trees	white
@@ -60,3 +63,4 @@ Arches			Arches	white
 Animals			RoofPanels	white
 House Front			Whole_House	white
 Pixel Poles			ChromaCanes	white
+Lower Door and Windows			WindowsDoor	white
