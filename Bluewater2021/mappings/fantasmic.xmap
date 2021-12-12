@@ -1,0 +1,86 @@
+false
+42
+Lower Right Window
+Lower Left Window
+Upper Left Window
+Upper Right Window
+High Eve Over Garage
+Main Eve
+Everything
+Front Door
+Front Porch Eve
+Garage Eve
+Large Mini Tree Center
+Large Mini Tree Left
+Large Mini Tree Right
+Flake 12 center
+Flake 16 lower left
+Flake 16 lower right
+Flake 16 over garage
+Flake 16 upper left
+Flake 16 upper right
+Garage Right Door
+Garage Left Door
+Arch-1
+Arch-2
+Arch-3
+Arch-4
+Arch-5
+Arch-6
+Bumble
+Charlie Brown
+Rudolph
+Snoopy
+Woodstock
+Pixel Pole 1
+Pixel Pole 2
+Pixel Pole 3
+Pixel Pole 4
+Pixel Pole 5
+Pixel Pole 6
+Large Matrix
+Mega Tree
+MiniTreeTrunks
+Arches
+Lower Right Window			FamilyRoom2	white
+Lower Left Window			FamilyRoom1	white
+Upper Left Window			MegaStar Left	white
+Upper Right Window			MegaStar Right	white
+High Eve Over Garage			Eaves1LtoR	white
+Main Eve			Eaves2LtoR	white
+Everything			Whole House	white
+Front Door			Missy Window	white
+Front Porch Eve			Eaves4LtoR	white
+Garage Eve			Eaves3LtoR	white
+Large Mini Tree Center			MiniTree 3	white
+Large Mini Tree Left			MiniTree 1	white
+Large Mini Tree Right			MiniTree 5	white
+Flake 12 center			PixelTree8	white
+Flake 16 lower left			PixelTree10	white
+Flake 16 lower right			PixelTree11	white
+Flake 16 over garage			PixelTree6	white
+Flake 16 upper left			PixelTree7	white
+Flake 16 upper right			PixelTree9	white
+Garage Right Door			MikeWindow2	white
+Garage Left Door			MikeWindow1	white
+Arch-1			Arch 1	white
+Arch-2			Arch 2	white
+Arch-3			Arch 3	white
+Arch-4			Arch 4	white
+Arch-5			Arch 1	white
+Arch-6			Arch 2	white
+Bumble			PixelTree4	white
+Charlie Brown			PixelTree3	white
+Rudolph			PixelTree5	white
+Snoopy			PixelTree2	white
+Woodstock			PixelTree1	white
+Pixel Pole 1			North Pole 1	white
+Pixel Pole 2			North Pole 2	white
+Pixel Pole 3			North Pole 3	white
+Pixel Pole 4			North Pole 4	white
+Pixel Pole 5			North Pole 1	white
+Pixel Pole 6			North Pole 2	white
+Large Matrix			MegaTree Left	white
+Mega Tree			MegaTree Right	white
+MiniTreeTrunks			Pixel Trees	white
+Arches			Arches	white

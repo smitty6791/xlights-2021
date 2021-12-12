@@ -1,0 +1,64 @@
+false
+31
+Lower Right Window
+Lower Left Window
+Windows
+Upper Center Window
+Upper Left Window
+Upper Right Window
+Window Over Garage
+Posts
+Right Post
+Left Post
+UpperEves
+High Eve Over Garage
+Main Eve
+Everything
+Front Door
+Front Porch Eve
+Garage Eve
+Star
+Star-2
+Star-3
+Large Matrix
+Mega Tree
+Garage Front
+Verticals
+Garage Doors
+Outline
+Arches
+House Front
+Yard
+Pixel Poles
+Sign-Matrix
+Lower Right Window			House right	white
+Lower Left Window			House left	white
+Windows			HOUSE FRONT	white
+Upper Center Window			Garage	white
+Upper Left Window			Facia Lower	white
+Upper Right Window			Facia Upper	white
+Window Over Garage			Ground 3	white
+Posts			Ground 4	white
+Right Post			Ground 2	white
+Left Post			Ground 1	white
+UpperEves			FASCIA	white
+High Eve Over Garage			Roof Peek	white
+Main Eve			ROOF	white
+Everything			EVERYTHING	white
+Front Door			Arch	white
+Front Porch Eve			DoorWreath	white
+Garage Eve			RoofTop2	white
+Star			Star	white
+Star-2			Star	white
+Star-3			Star	white
+Large Matrix			MEGATREE+STAR	white
+Mega Tree			MEGATREE+STAR	white
+Garage Front			HOUSE FRONT+TREE	white
+Verticals			VERTICALS	white
+Garage Doors			HOUSE FRONT+TREE	white
+Outline			Megatree	white
+Arches			Arch	white
+House Front			HOUSE FRONT+TREE	white
+Yard			GROUND RUNS	white
+Pixel Poles			HOUSE SIDES	white
+Sign-Matrix			Tune to Sign	white

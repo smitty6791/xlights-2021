@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2021.37</version>
+    <version>2021.38</version>
     <author/>
     <author-email/>
     <author-website/>
@@ -36,6 +36,21 @@
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=Active=TRUE|Id=ID_BUTTON_Palette4|Values=x=0.000^c=#ff0000;x=1.000^c=#00ff00|,C_BUTTON_Palette5=Active=TRUE|Id=ID_BUTTON_Palette5|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ffffff|,C_BUTTON_Palette6=Active=TRUE|Id=ID_BUTTON_Palette6|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ff0000|,C_BUTTON_Palette7=Active=TRUE|Id=ID_BUTTON_Palette7|Values=x=0.000^c=#ff0000;x=0.330^c=#00ff00;x=0.670^c=#ffffff;x=1.000^c=#ff0000|,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#3535FF,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#46A3FF,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#3535FF,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#46A3FF,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#3535FF,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#46A3FF,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#3535FF,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#46A3FF,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#004000,C_BUTTON_Palette2=#008000,C_BUTTON_Palette3=#00BF00,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#37FF37,C_BUTTON_Palette6=#6AFF6A,C_BUTTON_Palette7=#93FF93,C_BUTTON_Palette8=#CCFFCC,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#B30000,C_BUTTON_Palette3=#D70000,C_BUTTON_Palette4=#D90000,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#FF4646,C_BUTTON_Palette7=#FF9393,C_BUTTON_Palette8=#FFBFBF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#B30000,C_BUTTON_Palette3=#D70000,C_BUTTON_Palette4=#D90000,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#FF4646,C_BUTTON_Palette7=#FF9393,C_BUTTON_Palette8=#FFBFBF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#B30000,C_BUTTON_Palette3=#D70000,C_BUTTON_Palette4=#D90000,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#FF4646,C_BUTTON_Palette7=#FF9393,C_BUTTON_Palette8=#FFBFBF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#B30000,C_BUTTON_Palette3=#D70000,C_BUTTON_Palette4=#D90000,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#FF4646,C_BUTTON_Palette7=#FF9393,C_BUTTON_Palette8=#FFBFBF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump,E_SLIDER_VUMeter_Bars=6,E_SLIDER_VUMeter_Gain=0,E_TEXTCTRL_VUMeter_Gain=0</Effect>
@@ -51,7 +66,7 @@
     <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=3,E_SLIDER_Plasma_Speed=79,E_SLIDER_Plasma_Style=8</Effect>
     <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=1,E_CHOICE_Video_DurationTreatment=Loop,E_FILEPICKERCTRL_Video_Filename=C:\Users\smitty\Documents\xlights-2021\Bluewater2021\Video\wine-moves-in-a-glass-2EHUS23.mov,E_TEXTCTRL_Duration=0:12.000,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=C:\Users\smitty\Documents\xlights-2021\Bluewater2021\Video\Micah Tyler - Feels Like Joy (Official Lyric Video).mp4,E_TEXTCTRL_Duration=2:52.205,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=TUNE TO 87.9 FM,E_TEXTCTRL_Text_Speed=6</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=TUNE TO 87.9 FM,E_TEXTCTRL_Text_Speed=6</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep,E_SLIDER_VUMeter_Bars=6</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Bars,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep,E_SLIDER_VUMeter_Bars=6</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-1.7</Effect>
@@ -64,11 +79,63 @@
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=3D,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=3D,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=3D,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=273,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=50,E_SLIDER_Pinwheel_Twist=0</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-19,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Tree,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=32,E_SLIDER_Shape_Growth=-1,E_SLIDER_Shape_Lifetime=8,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=18,E_SLIDER_Shape_Thickness=3,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=seconds,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 24 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=5,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=63,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=44,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=9924,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=63,E_SLIDER_Shape_Growth=-3,E_SLIDER_Shape_Lifetime=44,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127969,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=63,E_SLIDER_Shape_Growth=-3,E_SLIDER_Shape_Lifetime=44,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127876,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-25,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=63,E_SLIDER_Shape_Growth=-3,E_SLIDER_Shape_Lifetime=44,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=10052,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=52,E_SLIDER_Shape_CentreY=63,E_SLIDER_Shape_Growth=-3,E_SLIDER_Shape_Lifetime=44,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127926,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio,E_FILEPICKER_Pictures_Filename=C:\Users\smitty\Documents\xlights-2021\Bluewater2021\Images\bell animated 2.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 10 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-12,E_TEXTCTRL_Text=HOPE,E_TEXTCTRL_Text_Speed=5</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Crucifix,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=14,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=29,E_SLIDER_Shape_Thickness=13,E_SLIDER_Shapes_Direction=7,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=7,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=71,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=12,E_SLIDER_Shapes_Direction=248,E_SLIDER_Shapes_Velocity=2,E_SPINCTRL_Shape_Char=128118,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=248,E_TEXTCTRL_Shapes_Velocity=2</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=71,E_SLIDER_Shape_Growth=-5,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=16,E_SLIDER_Shapes_Direction=248,E_SLIDER_Shapes_Velocity=2,E_SPINCTRL_Shape_Char=128106,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=248,E_TEXTCTRL_Shapes_Velocity=2</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Joy,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Heart,E_SLIDER_Shape_Growth=12,E_SLIDER_Shape_Lifetime=10,E_SLIDER_Shape_Rotation=7,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=0,E_SLIDER_Shape_Thickness=1,E_SLIDER_Shapes_Direction=14,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=7,E_TEXTCTRL_Shapes_Direction=14,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=HAPPINESS,E_TEXTCTRL_Text_Speed=41</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=6,E_SLIDER_Shape_Lifetime=10,E_SLIDER_Shape_StartSize=16,E_SLIDER_Shapes_Direction=7,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127926,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=7,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=MEMORY,E_TEXTCTRL_Text_Speed=30</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=CHERISH,E_TEXTCTRL_Text_Speed=40</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WONDERFUL,E_TEXTCTRL_Text_Speed=40</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 12 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=40</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_Growth=10,E_SLIDER_Shape_Lifetime=5,E_SLIDER_Shape_StartSize=1,E_SLIDER_Shapes_Direction=21,E_SLIDER_Shapes_Velocity=1,E_SPINCTRL_Shape_Char=10052,E_TEXTCTRL_Shape_Count=5,E_TEXTCTRL_Shapes_Direction=21,E_TEXTCTRL_Shapes_Velocity=1</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=91,E_SLIDER_Shape_StartSize=12,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127926,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=heavy 'segoe ui black' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-14,E_TEXTCTRL_Text=HOPE,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=1,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_FireTimingTrack=,E_CHOICE_Shape_ObjectToDraw=Crucifix,E_SLIDER_Shape_CentreX=44,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=23,E_SLIDER_Shape_Lifetime=10,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_Sensitivity=40,E_SLIDER_Shape_StartSize=20,E_SLIDER_Shape_Thickness=9,E_SLIDER_Shapes_Direction=21,E_SLIDER_Shapes_Velocity=1,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=21,E_TEXTCTRL_Shapes_Velocity=1</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=1,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=71,E_SLIDER_Shape_Growth=-1,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_Sensitivity=50,E_SLIDER_Shape_StartSize=12,E_SLIDER_Shapes_Direction=248,E_SLIDER_Shapes_Velocity=2,E_SPINCTRL_Shape_Char=128106,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=248,E_TEXTCTRL_Shapes_Velocity=2</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=heavy 'segoe ui black' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=heavy 'segoe ui black' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-25,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=49,E_SLIDER_Shape_CentreY=64,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=87,E_SLIDER_Shape_StartSize=16,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=9924,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=49,E_SLIDER_Shape_CentreY=64,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=87,E_SLIDER_Shape_StartSize=13,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=128106,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=51,E_SLIDER_Shape_CentreY=60,E_SLIDER_Shape_Growth=0,E_SLIDER_Shape_Lifetime=87,E_SLIDER_Shape_StartSize=13,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127969,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Circles_Bounce=0,E_CHECKBOX_Circles_Bubbles=1,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=1,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=8,E_SLIDER_Circles_Size=3,E_SLIDER_Circles_Speed=2</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-19,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=5,E_SLIDER_Snowflakes_Type=7</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=-10,E_SLIDER_Shape_Lifetime=18,E_SLIDER_Shape_StartSize=11,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=127926,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=HOPE,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Crucifix,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=10,E_SLIDER_Shape_Lifetime=48,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_StartSize=37,E_SLIDER_Shape_Thickness=28,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=10,E_SLIDER_Shape_Lifetime=63,E_SLIDER_Shape_StartSize=17,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=128118,E_TEXTCTRL_Shape_Count=1,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0</Effect>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=0,E_CHECKBOX_Shape_RandomInitial=0,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_CHOICE_Shape_SkinTone=Default,E_FONTPICKER_Shape_Font='segoe ui emoji' 18 windows-1252,E_SLIDER_Shape_CentreX=46,E_SLIDER_Shape_CentreY=54,E_SLIDER_Shape_Growth=-6,E_SLIDER_Shape_Lifetime=46,E_SLIDER_Shape_StartSize=12,E_SLIDER_Shapes_Direction=286,E_SLIDER_Shapes_Velocity=1,E_SPINCTRL_Shape_Char=128106,E_TEXTCTRL_Shape_Count=3,E_TEXTCTRL_Shapes_Direction=286,E_TEXTCTRL_Shapes_Velocity=1</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-25,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_CHOICE_Text_LyricTrack=,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='showcard gothic' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=JOY,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.7</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-1.7</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=71,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=98,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=0</Effect>
+    <Effect>E_CHECKBOX_Circles_Bounce=1,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=0,E_CHECKBOX_Circles_Plasma=1,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=7,E_SLIDER_Circles_Size=2,E_SLIDER_Circles_Speed=4</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=1,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=30,E_TEXTCTRL_Spirals_Movement=1.7</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=180,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=20,E_SLIDER_Pinwheel_Twist=72</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=6</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-6</Effect>
+    <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=10,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=1440,E_SLIDER_Galaxy_Start_Angle=40,E_SLIDER_Galaxy_Start_Radius=0,E_SLIDER_Galaxy_Start_Width=65</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=180,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=1,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=180,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=compress,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=3D,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-18,E_SLIDER_PinwheelYC=-60,E_SLIDER_Pinwheel_ArmSize=154,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=153,E_SLIDER_Pinwheel_Speed=5,E_SLIDER_Pinwheel_Thickness=100,E_SLIDER_Pinwheel_Twist=190</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=wavey,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 28 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Feels Like Joy,E_TEXTCTRL_Text_Speed=10</Effect>
     <Effect>E_CHECKBOX_TextToCenter=1,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=cambria 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Feels Like Joy,E_TEXTCTRL_Text_Speed=11</Effect>
     <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1</Effect>
@@ -77,9 +144,10 @@
     <DataLayer lor_params="1072693248" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Word Beats_1" visible="1" views="" active="1"/>
     <Element collapsed="0" type="model" name="Windows" visible="1"/>
     <Element collapsed="0" type="model" name="Posts" visible="1"/>
     <Element collapsed="0" type="model" name="UpperEves" visible="1"/>
@@ -668,6 +736,52 @@
         <Effect label="167" startTime="171850" endTime="171850"></Effect>
       </EffectLayer>
     </Element>
+    <Element type="timing" name="Word Beats_1">
+      <EffectLayer>
+        <Effect label="B" startTime="6250" endTime="11400"></Effect>
+        <Effect label="B" startTime="11400" endTime="16550"></Effect>
+        <Effect label="B" startTime="16550" endTime="22500"></Effect>
+        <Effect label="B" startTime="22500" endTime="27400"></Effect>
+        <Effect label="B" startTime="27400" endTime="30100"></Effect>
+        <Effect label="B" startTime="30100" endTime="32750"></Effect>
+        <Effect label="B" startTime="32750" endTime="35150"></Effect>
+        <Effect label="B" startTime="35150" endTime="38600"></Effect>
+        <Effect label="B" startTime="38600" endTime="42200"></Effect>
+        <Effect label="B" startTime="42200" endTime="43700"></Effect>
+        <Effect label="B" startTime="43700" endTime="49200"></Effect>
+        <Effect label="B" startTime="49200" endTime="51800"></Effect>
+        <Effect label="B" startTime="51800" endTime="59300"></Effect>
+        <Effect label="B" startTime="59300" endTime="62650"></Effect>
+        <Effect label="B" startTime="62650" endTime="66450"></Effect>
+        <Effect label="B" startTime="66450" endTime="71900"></Effect>
+        <Effect label="B" startTime="71900" endTime="76800"></Effect>
+        <Effect label="B" startTime="76800" endTime="79350"></Effect>
+        <Effect label="B" startTime="79350" endTime="82500"></Effect>
+        <Effect label="B" startTime="82500" endTime="87600"></Effect>
+        <Effect label="B" startTime="87600" endTime="90350"></Effect>
+        <Effect label="B" startTime="90350" endTime="93050"></Effect>
+        <Effect label="B" startTime="93050" endTime="93100"></Effect>
+        <Effect label="B" startTime="93100" endTime="95850"></Effect>
+        <Effect label="B" startTime="95850" endTime="98750"></Effect>
+        <Effect label="B" startTime="98750" endTime="104300"></Effect>
+        <Effect label="B" startTime="104300" endTime="109900"></Effect>
+        <Effect label="B" startTime="109900" endTime="115150"></Effect>
+        <Effect label="B" startTime="115150" endTime="117450"></Effect>
+        <Effect label="B" startTime="117450" endTime="123150"></Effect>
+        <Effect label="B" startTime="123150" endTime="126150"></Effect>
+        <Effect label="B" startTime="126150" endTime="129000"></Effect>
+        <Effect label="B" startTime="129000" endTime="134550"></Effect>
+        <Effect label="B" startTime="134550" endTime="142450"></Effect>
+        <Effect label="B" startTime="142450" endTime="145700"></Effect>
+        <Effect label="B" startTime="145700" endTime="151000"></Effect>
+        <Effect label="B" startTime="151000" endTime="156250"></Effect>
+        <Effect label="B" startTime="156250" endTime="159800"></Effect>
+        <Effect label="B" startTime="159800" endTime="162250"></Effect>
+        <Effect label="B" startTime="162250" endTime="167400"></Effect>
+        <Effect label="B" startTime="167400" endTime="172550"></Effect>
+        <Effect label="B" startTime="172550" endTime="172550"></Effect>
+      </EffectLayer>
+    </Element>
     <Element type="model" name="Windows">
       <EffectLayer/>
     </Element>
@@ -774,7 +888,7 @@
     </Element>
     <Element type="model" name="Sign-Matrix">
       <EffectLayer>
-        <Effect ref="13" name="Text" selected="1" startTime="0" endTime="168750" palette="0"/>
+        <Effect ref="13" name="Text" startTime="0" endTime="168750" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Pixel Pole 1">
@@ -1034,7 +1148,7 @@
         <Effect ref="23" name="Pinwheel" startTime="0" endTime="6000" palette="0"/>
         <Effect ref="24" name="Pinwheel" id="1" startTime="6000" endTime="22550" palette="1"/>
         <Effect ref="23" name="Pinwheel" id="2" startTime="22550" endTime="27850" palette="2"/>
-        <Effect ref="24" name="Pinwheel" id="3" startTime="27850" endTime="55050" palette="3"/>
+        <Effect ref="24" name="Pinwheel" selected="1" id="3" startTime="27850" endTime="55050" palette="3"/>
         <Effect ref="23" name="Pinwheel" id="4" startTime="55050" endTime="76450" palette="0"/>
         <Effect ref="24" name="Pinwheel" id="5" startTime="76450" endTime="110200" palette="4"/>
         <Effect ref="23" name="Pinwheel" id="6" startTime="110200" endTime="123200" palette="5"/>
@@ -1080,27 +1194,92 @@
     <Element type="model" name="Mega Tree">
       <EffectLayer>
         <Effect ref="16" name="Spirals" startTime="0" endTime="6000" palette="0"/>
-        <Effect ref="17" name="Spirals" id="1" startTime="6000" endTime="22550" palette="1"/>
-        <Effect ref="18" name="Spirals" id="2" startTime="22550" endTime="27900" palette="10"/>
-        <Effect ref="19" name="Spirals" id="3" startTime="27900" endTime="55050" palette="13"/>
-        <Effect ref="20" name="Spirals" id="4" startTime="55050" endTime="76450" palette="7"/>
-        <Effect ref="19" name="Spirals" id="5" startTime="76450" endTime="110200" palette="4"/>
-        <Effect ref="21" name="Liquid" id="6" startTime="110200" endTime="123200" palette="4"/>
-        <Effect ref="26" name="Text" id="7" startTime="123200" endTime="168750" palette="9"/>
+        <Effect ref="26" name="Shape" id="1" startTime="6050" endTime="11400" palette="15"/>
+        <Effect ref="27" name="Text" id="2" startTime="11400" endTime="16550" palette="15"/>
+        <Effect ref="28" name="Shape" id="3" startTime="16550" endTime="19300" palette="7"/>
+        <Effect ref="29" name="Shape" id="4" startTime="19300" endTime="22050" palette="7"/>
+        <Effect ref="30" name="Shape" id="5" startTime="22050" endTime="24800" palette="7"/>
+        <Effect ref="31" name="Text" id="6" startTime="27250" endTime="29900" palette="16"/>
+        <Effect ref="32" name="Shape" id="7" startTime="29900" endTime="32750" palette="7"/>
+        <Effect ref="33" name="Shape" id="8" startTime="32750" endTime="34500" palette="9"/>
+        <Effect ref="34" name="Pictures" id="9" startTime="34500" endTime="36000" palette="9"/>
+        <Effect ref="35" name="Text" id="10" startTime="36000" endTime="37900" palette="17"/>
+        <Effect ref="36" name="Shape" id="11" startTime="38350" endTime="43800" palette="16"/>
+        <Effect ref="37" name="Shape" id="12" startTime="44350" endTime="45400" palette="7"/>
+        <Effect ref="38" name="Shape" id="13" startTime="45900" endTime="47150" palette="7"/>
+        <Effect ref="39" name="Text" id="14" startTime="49100" endTime="54100" palette="7"/>
+        <Effect ref="40" name="Shape" id="15" startTime="55050" endTime="60550" palette="9"/>
+        <Effect ref="41" name="Text" id="16" startTime="60550" endTime="62000" palette="5"/>
+        <Effect ref="42" name="Shape" id="17" startTime="62000" endTime="66100" palette="9"/>
+        <Effect ref="43" name="Text" id="18" startTime="66100" endTime="67550" palette="18"/>
+        <Effect ref="44" name="Text" id="19" startTime="69000" endTime="70800" palette="19"/>
+        <Effect ref="45" name="Text" id="20" startTime="71850" endTime="76450" palette="19"/>
+        <Effect ref="46" name="Text" id="21" startTime="76450" endTime="79350" palette="20"/>
+        <Effect ref="47" name="Shape" id="22" startTime="79350" endTime="82150" palette="21"/>
+        <Effect ref="48" name="Shape" id="23" startTime="82150" endTime="84100" palette="21"/>
+        <Effect ref="34" name="Pictures" id="24" startTime="84100" endTime="85300" palette="21"/>
+        <Effect ref="49" name="Text" id="25" startTime="85300" endTime="87600" palette="16"/>
+        <Effect ref="50" name="Shape" id="26" startTime="87600" endTime="93100" palette="16"/>
+        <Effect ref="37" name="Shape" id="27" startTime="93800" endTime="94850" palette="7"/>
+        <Effect ref="51" name="Shape" id="28" startTime="94950" endTime="96000" palette="7"/>
+        <Effect ref="52" name="Text" id="29" startTime="99300" endTime="99950" palette="9"/>
+        <Effect ref="53" name="Text" id="30" startTime="104300" endTime="106850" palette="7"/>
+        <Effect ref="54" name="Shape" id="31" startTime="110250" endTime="112400" palette="7"/>
+        <Effect ref="55" name="Shape" id="32" startTime="112750" endTime="113900" palette="7"/>
+        <Effect ref="56" name="Shape" id="33" startTime="113900" endTime="115050" palette="7"/>
+        <Effect ref="57" name="Circles" id="34" startTime="115600" endTime="121900" palette="22"/>
+        <Effect ref="58" name="Text" id="35" startTime="123200" endTime="125800" palette="9"/>
+        <Effect ref="59" name="Snowflakes" id="36" startTime="125800" endTime="128400" palette="7"/>
+        <Effect ref="60" name="Shape" id="37" startTime="128400" endTime="130550" palette="7"/>
+        <Effect ref="34" name="Pictures" id="38" startTime="130550" endTime="132050" palette="7"/>
+        <Effect ref="61" name="Text" id="39" startTime="132050" endTime="133850" palette="16"/>
+        <Effect ref="62" name="Shape" id="40" startTime="133850" endTime="140000" palette="16"/>
+        <Effect ref="63" name="Shape" id="41" startTime="140000" endTime="142450" palette="16"/>
+        <Effect ref="64" name="Shape" id="42" startTime="142450" endTime="145200" palette="23"/>
+        <Effect ref="65" name="Text" id="43" startTime="145200" endTime="147100" palette="7"/>
+        <Effect ref="66" name="Text" id="44" startTime="150850" endTime="152750" palette="23"/>
+        <Effect ref="65" name="Text" id="45" startTime="156250" endTime="158150" palette="15"/>
+        <Effect ref="65" name="Text" id="46" startTime="159050" endTime="160950" palette="17"/>
+        <Effect ref="65" name="Text" id="47" startTime="161650" endTime="163150" palette="24"/>
+        <Effect ref="65" name="Text" id="48" startTime="163150" endTime="163550" palette="24"/>
+        <Effect ref="65" name="Text" id="49" startTime="163550" endTime="164750" palette="25"/>
+        <Effect ref="67" name="Text" id="50" startTime="167850" endTime="168750" palette="9"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="27" name="Shape" startTime="6050" endTime="27900" palette="15"/>
-        <Effect ref="28" name="Shape" id="1" startTime="37850" endTime="49000" palette="7"/>
-        <Effect ref="29" name="Shape" id="2" startTime="55050" endTime="76450" palette="9"/>
-        <Effect ref="30" name="Shape" id="3" startTime="83800" endTime="110200" palette="16"/>
-        <Effect ref="22" name="Spirals" id="4" startTime="123200" endTime="167850" palette="14"/>
-        <Effect ref="2" name="On" id="5" startTime="167850" endTime="168750" palette="7"/>
+        <Effect ref="17" name="Spirals" startTime="6000" endTime="22550" palette="1"/>
+        <Effect ref="18" name="Spirals" id="1" startTime="22550" endTime="27250" palette="10"/>
+        <Effect ref="68" name="Spirals" id="2" startTime="27250" endTime="29900" palette="13"/>
+        <Effect ref="69" name="Spirals" id="3" startTime="29900" endTime="32750" palette="13"/>
+        <Effect ref="68" name="Spirals" id="4" startTime="32750" endTime="37900" palette="26"/>
+        <Effect ref="69" name="Spirals" id="5" startTime="37900" endTime="47150" palette="13"/>
+        <Effect ref="70" name="Fan" id="6" startTime="47150" endTime="49100" palette="13"/>
+        <Effect ref="71" name="Circles" id="7" startTime="49100" endTime="54100" palette="22"/>
+        <Effect ref="20" name="Spirals" id="8" startTime="55100" endTime="76550" palette="7"/>
+        <Effect ref="72" name="Spirals" id="9" startTime="76550" endTime="79350" palette="21"/>
+        <Effect ref="72" name="Spirals" id="10" startTime="79350" endTime="82150" palette="21"/>
+        <Effect ref="72" name="Spirals" id="11" startTime="82150" endTime="87600" palette="21"/>
+        <Effect ref="72" name="Spirals" id="12" startTime="87600" endTime="98750" palette="21"/>
+        <Effect ref="73" name="Pinwheel" id="13" startTime="98750" endTime="110250" palette="10"/>
+        <Effect ref="21" name="Liquid" id="14" startTime="110250" endTime="115600" palette="4"/>
+        <Effect ref="21" name="Liquid" id="15" startTime="115600" endTime="121900" palette="27"/>
+        <Effect ref="74" name="Spirals" id="16" startTime="123200" endTime="125800" palette="14"/>
+        <Effect ref="75" name="Spirals" id="17" startTime="125800" endTime="128400" palette="9"/>
+        <Effect ref="74" name="Spirals" id="18" startTime="128400" endTime="133850" palette="28"/>
+        <Effect ref="75" name="Spirals" id="19" startTime="133850" endTime="142450" palette="29"/>
+        <Effect ref="76" name="Galaxy" id="20" startTime="142450" endTime="145200" palette="9"/>
+        <Effect ref="77" name="Fan" id="21" startTime="145200" endTime="150850" palette="30"/>
+        <Effect ref="78" name="Fan" id="22" startTime="150850" endTime="156250" palette="30"/>
+        <Effect ref="79" name="Bars" id="23" startTime="156250" endTime="159000" palette="0"/>
+        <Effect ref="80" name="Bars" id="24" startTime="159000" endTime="161650" palette="0"/>
+        <Effect ref="81" name="Bars" id="25" startTime="161650" endTime="164750" palette="0"/>
+        <Effect ref="82" name="Pinwheel" id="26" startTime="164750" endTime="167850" palette="31"/>
+        <Effect ref="2" name="On" id="27" startTime="167850" endTime="168750" palette="7"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Small Matrix">
       <EffectLayer>
-        <Effect ref="31" name="Text" startTime="123200" endTime="167850" palette="0"/>
-        <Effect ref="32" name="Text" id="1" startTime="167850" endTime="168750" palette="7"/>
+        <Effect ref="83" name="Text" startTime="123200" endTime="167850" palette="0"/>
+        <Effect ref="84" name="Text" id="1" startTime="167850" endTime="168750" palette="7"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="3" name="VU Meter" startTime="0" endTime="6000" palette="0"/>
@@ -1110,7 +1289,7 @@
         <Effect ref="7" name="Butterfly" id="4" startTime="27850" endTime="55050" palette="3"/>
         <Effect ref="8" name="Video" id="5" startTime="55050" endTime="76400" palette="11"/>
         <Effect ref="9" name="Video" id="6" startTime="76400" endTime="110250" palette="4"/>
-        <Effect ref="33" name="Plasma" id="7" startTime="110250" endTime="123200" palette="12"/>
+        <Effect ref="85" name="Plasma" id="7" startTime="110250" endTime="123200" palette="12"/>
         <Effect ref="11" name="Video" id="8" startTime="123200" endTime="167850" palette="0"/>
         <Effect ref="2" name="On" id="9" startTime="167850" endTime="168750" palette="9"/>
       </EffectLayer>
